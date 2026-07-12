@@ -4,7 +4,9 @@ A simple 2D raytracing simulation written in C using SDL3. The program draws a
 light source, emits rays in every direction, and stops each ray when it hits a
 moving circular obstacle or leaves the window.
 
-![Raytracing simulation](Screenshot%202026-07-12%20154306.png)
+
+![Raytracing simulation demo](demo_gif.gif)
+its lagging in the gif only :-)
 
 ## How It Works
 
